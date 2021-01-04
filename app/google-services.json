@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "261723139881",
+    "project_id": "market-today-app",
+    "storage_bucket": "market-today-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261723139881:android:0e95650205d387ef561138",
+        "android_client_info": {
+          "package_name": "com.dhairytripathi.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261723139881-s4jmunld2laaba3mi0d3c25467m0vn0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqqmf3LQ32-zr0JMnU3g1kVD5VdwyZ5Rs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261723139881-s4jmunld2laaba3mi0d3c25467m0vn0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261723139881:android:1deac0337b4f07c9561138",
+        "android_client_info": {
+          "package_name": "com.dhairytripathi.markettoday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261723139881-s4jmunld2laaba3mi0d3c25467m0vn0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqqmf3LQ32-zr0JMnU3g1kVD5VdwyZ5Rs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261723139881-s4jmunld2laaba3mi0d3c25467m0vn0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
